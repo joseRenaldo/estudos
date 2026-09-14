@@ -1,2 +1,4 @@
-packagepackage-lock.json
+#tirando arquivos q n precisa
+
+package-lock.json
 node_modules
